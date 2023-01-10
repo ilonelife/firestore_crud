@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "38403594748",
+    "project_id": "flufire-sample-0211",
+    "storage_bucket": "flufire-sample-0211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38403594748:android:60dda10ccea1fb5dc83a79",
+        "android_client_info": {
+          "package_name": "com.oneslife.firestore_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38403594748-pqlo6tkg4p7kuqj068aluil1b78egs2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBiPXSG7y6Su9SwFn8Imswz2vuTr--7J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38403594748-pqlo6tkg4p7kuqj068aluil1b78egs2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38403594748-2aalks5bcia939keijed7bksp0p9hika.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oneslife.xtrip2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
